@@ -7,7 +7,9 @@ permalink: /first-post.html
 
 Hello all!!!!
 
-I'm super excited to say that I've finally started a blog! Not just because it makes me sound cool... 
+I'm super excited to say that I've finally started a blog! Not just because it makes me feel cool... 
+
+
 
 
 
